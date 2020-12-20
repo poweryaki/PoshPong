@@ -143,7 +143,7 @@ Switch ( $Host.Version.Major ) {
                 Colour = [System.ConsoleColor]'Black'
             }
             Ball = @{
-                Colour = [System.ConsoleColor]'Green'
+                Colour = [System.ConsoleColor]'Red'
             }
             Bat = @{
                 LeftPlayer = @{
@@ -180,10 +180,10 @@ Switch ( $Host.Version.Major ) {
             }
             Bat = @{
                 LeftPlayer = @{
-                    Colour = [System.ConsoleColor]'Red'
+                    Colour = [System.ConsoleColor]'White'
                 }
                 RightPlayer = @{
-                    Colour = [System.ConsoleColor]'DarkGray'
+                    Colour = [System.ConsoleColor]'White'
                 }
             }
             Net = @{
@@ -244,7 +244,7 @@ Switch ( $Host.Version.Major ) {
                 Colour = [System.ConsoleColor]'Black'
             }
             Ball = @{
-                Colour = [System.ConsoleColor]'Green'
+                Colour = [System.ConsoleColor]'Red'
             }
             Bat = @{
                 LeftPlayer = @{
@@ -281,10 +281,10 @@ Switch ( $Host.Version.Major ) {
             }
             Bat = @{
                 LeftPlayer = @{
-                    Colour = [System.ConsoleColor]'Red'
+                    Colour = [System.ConsoleColor]'White'
                 }
                 RightPlayer = @{
-                    Colour = [System.ConsoleColor]'DarkGray'
+                    Colour = [System.ConsoleColor]'White'
                 }
             }
             Net = @{
